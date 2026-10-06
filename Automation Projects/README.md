@@ -16,7 +16,7 @@ Automation Projects/
 │   ├── PlatformSurvillence_Process_logXX.py
 │   └── README.md
 │
-├── done Marvellous Data Shield – Automated Backup & File Monitoring System/
+├── Marvellous Data Shield – Automated Backup & File Monitoring System/
 │   ├── Data-shield-workflow.png
 │   ├── Data_Shield.py
 │   └── README.md
